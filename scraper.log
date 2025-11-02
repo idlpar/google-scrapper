@@ -1,0 +1,14 @@
+2025-11-02 23:38:13,095 - INFO - ====== WebDriver manager ======
+2025-11-02 23:38:14,044 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-02 23:38:14,690 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-02 23:38:15,333 - INFO - Driver [C:\Users\Parvez\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-02 23:38:16,518 - INFO - --- Starting search in: Dhaka ---
+2025-11-02 23:38:16,518 - INFO -    Searching for: 'motorcycle'
+2025-11-02 23:38:16,519 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20in%20Dhaka%2C%20Bangladesh
+2025-11-02 23:38:28,994 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:40:51,433 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:40:51,824 - INFO - Found 128 potential business listings.
+2025-11-02 23:40:51,848 - INFO -    -> Found 121 results for 'motorcycle' in Dhaka.
+2025-11-02 23:40:57,697 - INFO -    Searching for: 'motorcycle showroom'
+2025-11-02 23:40:57,698 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20showroom%20in%20Dhaka%2C%20Bangladesh
+2025-11-02 23:41:09,760 - INFO - Cookie consent button not found or not clickable.

@@ -1,0 +1,5 @@
+pandas
+fake-useragent
+selenium
+webdriver-manager
+beautifulsoup4
