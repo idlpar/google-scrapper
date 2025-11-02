@@ -1,14 +1,48 @@
-2025-11-02 23:38:13,095 - INFO - ====== WebDriver manager ======
-2025-11-02 23:38:14,044 - INFO - Get LATEST chromedriver version for google-chrome
-2025-11-02 23:38:14,690 - INFO - Get LATEST chromedriver version for google-chrome
-2025-11-02 23:38:15,333 - INFO - Driver [C:\Users\Parvez\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
-2025-11-02 23:38:16,518 - INFO - --- Starting search in: Dhaka ---
-2025-11-02 23:38:16,518 - INFO -    Searching for: 'motorcycle'
-2025-11-02 23:38:16,519 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20in%20Dhaka%2C%20Bangladesh
-2025-11-02 23:38:28,994 - INFO - Cookie consent button not found or not clickable.
-2025-11-02 23:40:51,433 - INFO - Reached end of scrollable content or max attempts (10).
-2025-11-02 23:40:51,824 - INFO - Found 128 potential business listings.
-2025-11-02 23:40:51,848 - INFO -    -> Found 121 results for 'motorcycle' in Dhaka.
-2025-11-02 23:40:57,697 - INFO -    Searching for: 'motorcycle showroom'
-2025-11-02 23:40:57,698 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20showroom%20in%20Dhaka%2C%20Bangladesh
-2025-11-02 23:41:09,760 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:49:56,097 - INFO - ====== WebDriver manager ======
+2025-11-02 23:49:57,108 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-02 23:49:57,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-02 23:49:58,390 - INFO - Driver [C:\Users\Parvez\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-02 23:49:59,573 - INFO - --- Starting search in: Barguna ---
+2025-11-02 23:49:59,573 - INFO -    Searching for: 'motorcycle'
+2025-11-02 23:49:59,573 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20in%20Barguna%2C%20Bangladesh
+2025-11-02 23:50:10,726 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:50:31,277 - WARNING - Could not find a specific scrollable element, falling back to body.
+2025-11-02 23:51:16,982 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:51:17,129 - INFO - Found 6 potential business listings.
+2025-11-02 23:51:17,131 - INFO -    -> Found 6 results for 'motorcycle' in Barguna.
+2025-11-02 23:51:22,215 - INFO -    Searching for: 'motorcycle showroom'
+2025-11-02 23:51:22,215 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20showroom%20in%20Barguna%2C%20Bangladesh
+2025-11-02 23:51:32,530 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:51:52,955 - WARNING - Could not find a specific scrollable element, falling back to body.
+2025-11-02 23:52:38,810 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:52:38,891 - INFO - Found 6 potential business listings.
+2025-11-02 23:52:38,896 - INFO -    -> Found 6 results for 'motorcycle showroom' in Barguna.
+2025-11-02 23:52:45,193 - INFO -    Searching for: 'bike repair'
+2025-11-02 23:52:45,194 - INFO - Navigating to: https://www.google.com/maps/search/bike%20repair%20in%20Barguna%2C%20Bangladesh
+2025-11-02 23:52:55,534 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:53:15,969 - WARNING - Could not find a specific scrollable element, falling back to body.
+2025-11-02 23:53:59,397 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:53:59,517 - INFO - Found 13 potential business listings.
+2025-11-02 23:53:59,522 - INFO -    -> Found 13 results for 'bike repair' in Barguna.
+2025-11-02 23:54:02,999 - INFO -    Searching for: 'motorcycle service'
+2025-11-02 23:54:03,000 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20service%20in%20Barguna%2C%20Bangladesh
+2025-11-02 23:54:13,385 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:54:33,834 - WARNING - Could not find a specific scrollable element, falling back to body.
+2025-11-02 23:55:18,023 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:55:18,117 - INFO - Found 13 potential business listings.
+2025-11-02 23:55:18,123 - INFO -    -> Found 13 results for 'motorcycle service' in Barguna.
+2025-11-02 23:55:23,104 - INFO - --- Starting search in: Barishal ---
+2025-11-02 23:55:23,104 - INFO -    Searching for: 'motorcycle'
+2025-11-02 23:55:23,105 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20in%20Barishal%2C%20Bangladesh
+2025-11-02 23:55:33,430 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:55:53,867 - WARNING - Could not find a specific scrollable element, falling back to body.
+2025-11-02 23:56:36,212 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:56:36,301 - INFO - Found 6 potential business listings.
+2025-11-02 23:56:36,306 - INFO -    -> Found 6 results for 'motorcycle' in Barishal.
+2025-11-02 23:56:40,975 - INFO -    Searching for: 'motorcycle showroom'
+2025-11-02 23:56:40,975 - INFO - Navigating to: https://www.google.com/maps/search/motorcycle%20showroom%20in%20Barishal%2C%20Bangladesh
+2025-11-02 23:56:51,329 - INFO - Cookie consent button not found or not clickable.
+2025-11-02 23:57:11,754 - WARNING - Could not find a specific scrollable element, falling back to body.
+2025-11-02 23:57:56,781 - INFO - Reached end of scrollable content or max attempts (10).
+2025-11-02 23:57:56,870 - INFO - Found 6 potential business listings.
+2025-11-02 23:57:56,876 - INFO -    -> Found 6 results for 'motorcycle showroom' in Barishal.

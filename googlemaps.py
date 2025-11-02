@@ -193,7 +193,14 @@ def main():
     try:
         keywords = ["motorcycle", "motorcycle showroom", "bike repair", "motorcycle service"]
         districts = [
-            "Dhaka"
+            "Barguna", "Barishal", "Bhola", "Jhalokati", "Patuakhali", "Pirojpur",
+            "Bandarban", "Brahmanbaria", "Chandpur", "Chattogram", "Cumilla", "Cox's Bazar", "Feni", "Khagrachari", "Lakshmipur", "Noakhali", "Rangamati",
+            "Dhaka", "Faridpur", "Gazipur", "Gopalganj", "Kishoreganj", "Madaripur", "Manikganj", "Munshiganj", "Narayanganj", "Narsingdi", "Rajbari", "Shariatpur", "Tangail",
+            "Bagerhat", "Chuadanga", "Jashore", "Jhenaidah", "Khulna", "Kushtia", "Magura", "Meherpur", "Narail", "Satkhira",
+            "Jamalpur", "Mymensingh", "Netrokona", "Sherpur",
+            "Bogura", "Chapainawabganj", "Joypurhat", "Naogaon", "Natore", "Pabna", "Rajshahi", "Sirajganj",
+            "Dinajpur", "Gaibandha", "Kurigram", "Lalmonirhat", "Nilphamari", "Panchagarh", "Rangpur", "Thakurgaon",
+            "Habiganj", "Moulvibazar", "Sunamganj", "Sylhet"
         ]
         
         all_businesses = []
